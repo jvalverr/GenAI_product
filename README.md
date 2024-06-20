@@ -21,3 +21,8 @@ Dividiremos a abordagem para construir este produto em três partes -
 - **Parte 3:** usar o chatGPT da OpenAI como seu assistente de codificação para criar e implantar um front-end que permita aos usuários experimentar a funcionalidade de ponta a ponta
 
 Por meio deste projeto, nosso objetivo é entender como podemos abordar a construção e a implantação de aplicativos LLM que agregam valor aos usuários. Também forneceremos ideias para extensões interessantes e funcionalidades adicionais em várias partes do projeto.
+
+## **Referências**
+
+- Sidharth Ramachandran. "Building AI products with OpenAI", 2024.
+- Stanford CS224N. "Lecture 10 - Prompting, Reinforcement Learning from Human Feedback", 2023.
